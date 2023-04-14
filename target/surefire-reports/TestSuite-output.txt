@@ -1,0 +1,12 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Apr 14, 2023 5:37:28 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+PASSED: reminder
+
+===============================================
+    Reminder Regression
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
